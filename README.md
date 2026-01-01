@@ -1,2 +1,2 @@
-# Academic Website
+# Personal Website
 https://benmcguirk.github.io/
